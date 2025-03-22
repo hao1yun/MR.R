@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"V0McaP","gZkJiT","Neuroticism","IBS","MR Egger",158.6081596211,47,5.07679027580632e-14
+"V0McaP","gZkJiT","Neuroticism","IBS","Inverse variance weighted",173.281616081502,48,4.56166480717377e-16
